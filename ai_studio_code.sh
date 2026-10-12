@@ -1,0 +1,2 @@
+ADMIN_SECRET="mostakim_admin_2026"
+PORT=3000
